@@ -25,7 +25,7 @@ I'm Guilherme Costa, passionate about games and technology enthusiast. I am curr
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-readme-stats-8gvwsxybh-gehgui.vercel.app/api/top-langs/?username=gehgui&size_weight=0.5&count_weight=0.5&langs_count=10&layout=compact&hide_border=true&bg_color=00000000&theme=material-palenight">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-8gvwsxybh-gehgui.vercel.app/api/top-langs/?username=gehgui&size_weight=0.5&count_weight=0.5&langs_count=10&layout=compact&hide_border=true&bg_color=00000000&theme=material-palenight">
   <img src="https://github-readme-stats-8gvwsxybh-gehgui.vercel.app/api/top-langs/?username=gehgui&size_weight=0.5&count_weight=0.5&langs_count=10&layout=compact&hide_border=true&bg_color=00000000">
 </picture>
 
