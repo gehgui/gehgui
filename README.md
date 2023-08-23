@@ -18,7 +18,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=gehgui&mode=weekly&hide_border=true&background=00000000&theme=material-palenight" width="370px">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=gehgui&mode=weekly&hide_border=true&bg_color=00000000">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=gehgui&mode=weekly&hide_border=true&bg_color=00000000" width="370px">
 </picture>
 
 <picture>
