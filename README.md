@@ -1,5 +1,8 @@
-# 👋 Hi there 
+# 👋 Hi there
 
+I'm Guilherme Costa, passionate about games and technology enthusiast. I am currently studying Systems Analysis and Development and developing personal projects to develop my skills
+
+<!--# 🚀 Expertise-->
 # 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -25,8 +28,6 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gehgui&size_weight=0.5&count_weight=0.5&langs_count=10&layout=compact&hide_border=true&bg_color=00000000&theme=material-palenight">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gehgui&size_weight=0.5&count_weight=0.5&langs_count=10&layout=compact&hide_border=true&bg_color=00000000">
 </picture>
-
-
 
 <!--
 **gehgui/gehgui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
