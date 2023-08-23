@@ -15,8 +15,8 @@ I'm Guilherme Costa, passionate about games and technology enthusiast. I am curr
 
 # 📊 GitHub Stats:
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-8gvwsxybh-gehgui.vercel.app/api?username=gehgui&hide=contribs&show_icons=true&rank_icon=github&hide_border=true&bg_color=00000000&theme=material-palenight" max-width="400px">
-  <img src="https://github-readme-stats-8gvwsxybh-gehgui.vercel.app/api?username=gehgui&hide=contribs&show_icons=true&rank_icon=github&hide_border=true&bg_color=00000000" max-width="400px">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-gehgui.vercel.app/api?username=gehgui&hide=contribs&show_icons=true&rank_icon=github&hide_border=true&bg_color=00000000&theme=material-palenight" max-width="400px">
+  <img src="https://github-readme-stats-gehgui.vercel.app/api?username=gehgui&hide=contribs&show_icons=true&rank_icon=github&hide_border=true&bg_color=00000000" max-width="400px">
 </picture>
 
 <picture>
@@ -25,8 +25,8 @@ I'm Guilherme Costa, passionate about games and technology enthusiast. I am curr
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-8gvwsxybh-gehgui.vercel.app/api/top-langs/?username=gehgui&size_weight=0.5&count_weight=0.5&langs_count=10&layout=compact&hide_border=true&bg_color=00000000&theme=material-palenight">
-  <img src="https://github-readme-stats-8gvwsxybh-gehgui.vercel.app/api/top-langs/?username=gehgui&size_weight=0.5&count_weight=0.5&langs_count=10&layout=compact&hide_border=true&bg_color=00000000">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-gehgui.vercel.app/api/top-langs/?username=gehgui&size_weight=0.5&count_weight=0.5&langs_count=10&layout=compact&hide_border=true&bg_color=00000000&theme=material-palenight">
+  <img src="https://github-readme-stats-gehgui.vercel.app/api/top-langs/?username=gehgui&size_weight=0.5&count_weight=0.5&langs_count=10&layout=compact&hide_border=true&bg_color=00000000">
 </picture>
 
 <!--
